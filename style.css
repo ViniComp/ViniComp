@@ -1,0 +1,116 @@
+.logo{
+    margin-left: 3%;
+    padding-bottom: 1%;
+    width: 10%;
+}
+.icon{
+width: 15%;
+margin: 3px;
+}
+
+.user:hover{
+transform: scale(1.05);
+}
+.email:hover{
+transform: scale(1.05);
+}
+.lkdn:hover{
+transform: scale(1.05);
+}
+.git:hover{
+transform: scale(1.05);
+}
+.circle:hover{
+transform: scale(1.05);
+}
+.email{
+width: 18%;
+}
+.user{
+width: 8%;
+cursor: pointer;
+}
+.icon-prog{
+margin-top: 5%;
+}
+.circle{
+background-color: #f3f3f7;
+}
+.line{
+margin-top: 5%;
+margin-bottom: 5%;
+}
+.foto{
+width: 100%;
+border-radius: 20px;
+}
+.name-bio{
+font-family: 'Times New Roman', Times, serif;
+font-size: 40px;
+}
+.conteudo-bio{
+font-family: 'Times New Roman', Times, serif;
+font-size: 40px;
+font-weight: bold;
+margin-left: 20px;
+margin-bottom: 40px;
+margin-top: 50px;
+}
+.conteudo-bio-cursos{
+font-family: 'Times New Roman', Times, serif;
+font-size: 40px;
+font-weight: bold;
+margin-left: 40px;
+margin-bottom: 30px;
+margin-top: 50px;
+}
+.fho{
+width:100%;
+}
+.insta{
+margin: 10px 0 10px 65px;
+position: relative;
+width: 25%;
+}
+.font-insta{
+text-align: center;
+}
+.insta:hover{
+transform: scale(1.05);
+}
+#btn-topo{
+position: fixed;
+bottom: 20px;
+right: 20px;
+display: flex;
+}
+
+.formacao-fonte{
+position: relative;
+left: 10px;
+top: 10px;
+}
+.formacao-fonte2{
+position: relative;
+left: 10px;
+top: 40px;
+}
+.formacao-fonte3{
+position: relative;
+left: 10px;
+bottom: 30px;
+}
+.formacao-fonte4{
+position: relative;
+left: 10px;
+top: 40px;
+bottom: 30px;
+}
+.title-font{
+font-size:25px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.edit-conteudo{
+padding: 16px;
+margin-top: 10px;
+}
